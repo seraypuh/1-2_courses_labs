@@ -1,0 +1,14 @@
+C:\Users\seray\Desktop\учёба\2 курс\ООП\lab4\Utils\Utils\bin\Debug\net8.0\Utils.exe
+C:\Users\seray\Desktop\учёба\2 курс\ООП\lab4\Utils\Utils\bin\Debug\net8.0\Utils.deps.json
+C:\Users\seray\Desktop\учёба\2 курс\ООП\lab4\Utils\Utils\bin\Debug\net8.0\Utils.runtimeconfig.json
+C:\Users\seray\Desktop\учёба\2 курс\ООП\lab4\Utils\Utils\bin\Debug\net8.0\Utils.dll
+C:\Users\seray\Desktop\учёба\2 курс\ООП\lab4\Utils\Utils\bin\Debug\net8.0\Utils.pdb
+C:\Users\seray\Desktop\учёба\2 курс\ООП\lab4\Utils\Utils\obj\Debug\net8.0\Utils.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\seray\Desktop\учёба\2 курс\ООП\lab4\Utils\Utils\obj\Debug\net8.0\Utils.AssemblyInfoInputs.cache
+C:\Users\seray\Desktop\учёба\2 курс\ООП\lab4\Utils\Utils\obj\Debug\net8.0\Utils.AssemblyInfo.cs
+C:\Users\seray\Desktop\учёба\2 курс\ООП\lab4\Utils\Utils\obj\Debug\net8.0\Utils.csproj.CoreCompileInputs.cache
+C:\Users\seray\Desktop\учёба\2 курс\ООП\lab4\Utils\Utils\obj\Debug\net8.0\Utils.dll
+C:\Users\seray\Desktop\учёба\2 курс\ООП\lab4\Utils\Utils\obj\Debug\net8.0\refint\Utils.dll
+C:\Users\seray\Desktop\учёба\2 курс\ООП\lab4\Utils\Utils\obj\Debug\net8.0\Utils.pdb
+C:\Users\seray\Desktop\учёба\2 курс\ООП\lab4\Utils\Utils\obj\Debug\net8.0\Utils.genruntimeconfig.cache
+C:\Users\seray\Desktop\учёба\2 курс\ООП\lab4\Utils\Utils\obj\Debug\net8.0\ref\Utils.dll

@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\seray\\Desktop\\\u0443\u0447\u0451\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\lab7\\MyClassLine\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D25AB85-E850-4D4B-828F-00291B93C61D}|MyClassLine\\MyClassLine.csproj|c:\\users\\seray\\desktop\\\u0443\u0447\u0451\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\\u043E\u043E\u043F\\lab7\\myclassline\\myclassline\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D25AB85-E850-4D4B-828F-00291B93C61D}|MyClassLine\\MyClassLine.csproj|solutionrelative:myclassline\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D25AB85-E850-4D4B-828F-00291B93C61D}|MyClassLine\\MyClassLine.csproj|c:\\users\\seray\\desktop\\\u0443\u0447\u0451\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\\u043E\u043E\u043F\\lab7\\myclassline\\myclassline\\line.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D25AB85-E850-4D4B-828F-00291B93C61D}|MyClassLine\\MyClassLine.csproj|solutionrelative:myclassline\\line.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D25AB85-E850-4D4B-828F-00291B93C61D}|MyClassLine\\MyClassLine.csproj|c:\\users\\seray\\desktop\\\u0443\u0447\u0451\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\\u043E\u043E\u043F\\lab7\\myclassline\\myclassline\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D25AB85-E850-4D4B-828F-00291B93C61D}|MyClassLine\\MyClassLine.csproj|solutionrelative:myclassline\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\seray\\Desktop\\\u0443\u0447\u0451\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\lab7\\MyClassLine\\MyClassLine\\Program.cs",
+              "RelativeDocumentMoniker": "MyClassLine\\Program.cs",
+              "ToolTip": "C:\\Users\\seray\\Desktop\\\u0443\u0447\u0451\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\lab7\\MyClassLine\\MyClassLine\\Program.cs",
+              "RelativeToolTip": "MyClassLine\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T20:05:59.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Point.cs",
+              "DocumentMoniker": "C:\\Users\\seray\\Desktop\\\u0443\u0447\u0451\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\lab7\\MyClassLine\\MyClassLine\\Point.cs",
+              "RelativeDocumentMoniker": "MyClassLine\\Point.cs",
+              "ToolTip": "C:\\Users\\seray\\Desktop\\\u0443\u0447\u0451\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\lab7\\MyClassLine\\MyClassLine\\Point.cs",
+              "RelativeToolTip": "MyClassLine\\Point.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T20:58:49.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Line.cs",
+              "DocumentMoniker": "C:\\Users\\seray\\Desktop\\\u0443\u0447\u0451\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\lab7\\MyClassLine\\MyClassLine\\Line.cs",
+              "RelativeDocumentMoniker": "MyClassLine\\Line.cs",
+              "ToolTip": "C:\\Users\\seray\\Desktop\\\u0443\u0447\u0451\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\lab7\\MyClassLine\\MyClassLine\\Line.cs",
+              "RelativeToolTip": "MyClassLine\\Line.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T21:01:15.336Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

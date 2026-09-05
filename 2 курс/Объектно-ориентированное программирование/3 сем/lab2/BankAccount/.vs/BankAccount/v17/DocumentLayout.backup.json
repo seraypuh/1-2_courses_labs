@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\seray\\Desktop\\\u0443\u0447\u0451\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\lab2\\BankAccount\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB9B1B5-8611-485F-9993-10BAD9E86FBD}|BankAccount\\BankAccount.csproj|c:\\users\\seray\\desktop\\\u0443\u0447\u0451\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\\u043E\u043E\u043F\\lab2\\bankaccount\\bankaccount\\enum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DB9B1B5-8611-485F-9993-10BAD9E86FBD}|BankAccount\\BankAccount.csproj|solutionrelative:bankaccount\\enum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Enum.cs",
+              "DocumentMoniker": "C:\\Users\\seray\\Desktop\\\u0443\u0447\u0451\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\lab2\\BankAccount\\BankAccount\\Enum.cs",
+              "RelativeDocumentMoniker": "BankAccount\\Enum.cs",
+              "ToolTip": "C:\\Users\\seray\\Desktop\\\u0443\u0447\u0451\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\lab2\\BankAccount\\BankAccount\\Enum.cs*",
+              "RelativeToolTip": "BankAccount\\Enum.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T15:18:04.211Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

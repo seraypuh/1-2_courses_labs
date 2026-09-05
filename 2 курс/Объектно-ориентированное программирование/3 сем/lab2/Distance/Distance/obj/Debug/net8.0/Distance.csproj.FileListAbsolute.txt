@@ -1,0 +1,14 @@
+C:\Users\seray\Desktop\учёба\2 курс\ООП\lab2\Distance\Distance\bin\Debug\net8.0\Distance.exe
+C:\Users\seray\Desktop\учёба\2 курс\ООП\lab2\Distance\Distance\bin\Debug\net8.0\Distance.deps.json
+C:\Users\seray\Desktop\учёба\2 курс\ООП\lab2\Distance\Distance\bin\Debug\net8.0\Distance.runtimeconfig.json
+C:\Users\seray\Desktop\учёба\2 курс\ООП\lab2\Distance\Distance\bin\Debug\net8.0\Distance.dll
+C:\Users\seray\Desktop\учёба\2 курс\ООП\lab2\Distance\Distance\bin\Debug\net8.0\Distance.pdb
+C:\Users\seray\Desktop\учёба\2 курс\ООП\lab2\Distance\Distance\obj\Debug\net8.0\Distance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\seray\Desktop\учёба\2 курс\ООП\lab2\Distance\Distance\obj\Debug\net8.0\Distance.AssemblyInfoInputs.cache
+C:\Users\seray\Desktop\учёба\2 курс\ООП\lab2\Distance\Distance\obj\Debug\net8.0\Distance.AssemblyInfo.cs
+C:\Users\seray\Desktop\учёба\2 курс\ООП\lab2\Distance\Distance\obj\Debug\net8.0\Distance.csproj.CoreCompileInputs.cache
+C:\Users\seray\Desktop\учёба\2 курс\ООП\lab2\Distance\Distance\obj\Debug\net8.0\Distance.dll
+C:\Users\seray\Desktop\учёба\2 курс\ООП\lab2\Distance\Distance\obj\Debug\net8.0\refint\Distance.dll
+C:\Users\seray\Desktop\учёба\2 курс\ООП\lab2\Distance\Distance\obj\Debug\net8.0\Distance.pdb
+C:\Users\seray\Desktop\учёба\2 курс\ООП\lab2\Distance\Distance\obj\Debug\net8.0\Distance.genruntimeconfig.cache
+C:\Users\seray\Desktop\учёба\2 курс\ООП\lab2\Distance\Distance\obj\Debug\net8.0\ref\Distance.dll

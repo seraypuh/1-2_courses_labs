@@ -1,0 +1,14 @@
+C:\Users\seray\Desktop\учёба\2 курс\ООП\lab2\Shapeifelse\Shapeifelse\bin\Debug\net8.0\Shapeifelse.exe
+C:\Users\seray\Desktop\учёба\2 курс\ООП\lab2\Shapeifelse\Shapeifelse\bin\Debug\net8.0\Shapeifelse.deps.json
+C:\Users\seray\Desktop\учёба\2 курс\ООП\lab2\Shapeifelse\Shapeifelse\bin\Debug\net8.0\Shapeifelse.runtimeconfig.json
+C:\Users\seray\Desktop\учёба\2 курс\ООП\lab2\Shapeifelse\Shapeifelse\bin\Debug\net8.0\Shapeifelse.dll
+C:\Users\seray\Desktop\учёба\2 курс\ООП\lab2\Shapeifelse\Shapeifelse\bin\Debug\net8.0\Shapeifelse.pdb
+C:\Users\seray\Desktop\учёба\2 курс\ООП\lab2\Shapeifelse\Shapeifelse\obj\Debug\net8.0\Shapeifelse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\seray\Desktop\учёба\2 курс\ООП\lab2\Shapeifelse\Shapeifelse\obj\Debug\net8.0\Shapeifelse.AssemblyInfoInputs.cache
+C:\Users\seray\Desktop\учёба\2 курс\ООП\lab2\Shapeifelse\Shapeifelse\obj\Debug\net8.0\Shapeifelse.AssemblyInfo.cs
+C:\Users\seray\Desktop\учёба\2 курс\ООП\lab2\Shapeifelse\Shapeifelse\obj\Debug\net8.0\Shapeifelse.csproj.CoreCompileInputs.cache
+C:\Users\seray\Desktop\учёба\2 курс\ООП\lab2\Shapeifelse\Shapeifelse\obj\Debug\net8.0\Shapeifelse.dll
+C:\Users\seray\Desktop\учёба\2 курс\ООП\lab2\Shapeifelse\Shapeifelse\obj\Debug\net8.0\refint\Shapeifelse.dll
+C:\Users\seray\Desktop\учёба\2 курс\ООП\lab2\Shapeifelse\Shapeifelse\obj\Debug\net8.0\Shapeifelse.pdb
+C:\Users\seray\Desktop\учёба\2 курс\ООП\lab2\Shapeifelse\Shapeifelse\obj\Debug\net8.0\Shapeifelse.genruntimeconfig.cache
+C:\Users\seray\Desktop\учёба\2 курс\ООП\lab2\Shapeifelse\Shapeifelse\obj\Debug\net8.0\ref\Shapeifelse.dll

@@ -1,0 +1,13 @@
+a = float(input('1 число: '))
+b = float(input('2 число: '))
+math = input('Операция: ')
+if b == 0 and math == "/": print('На ноль делить нельзя')
+else:   
+    print(f'{a} {math} {b} = ', end = '')
+    if math == '-': print(a-b)
+    elif math == '+': print(a+b)
+    elif math == '*': print(a*b)
+    elif math == '/': print(a/b)
+    elif math == '**': print(a**b)
+    elif math == '%': print(a%b)
+    elif math == '//': print(a//b)

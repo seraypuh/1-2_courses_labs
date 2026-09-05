@@ -1,0 +1,14 @@
+C:\Users\seray\Desktop\учёба\ООП\lab1\TriangleArea\TriangleArea\bin\Debug\net8.0\TriangleArea.exe
+C:\Users\seray\Desktop\учёба\ООП\lab1\TriangleArea\TriangleArea\bin\Debug\net8.0\TriangleArea.deps.json
+C:\Users\seray\Desktop\учёба\ООП\lab1\TriangleArea\TriangleArea\bin\Debug\net8.0\TriangleArea.runtimeconfig.json
+C:\Users\seray\Desktop\учёба\ООП\lab1\TriangleArea\TriangleArea\bin\Debug\net8.0\TriangleArea.dll
+C:\Users\seray\Desktop\учёба\ООП\lab1\TriangleArea\TriangleArea\bin\Debug\net8.0\TriangleArea.pdb
+C:\Users\seray\Desktop\учёба\ООП\lab1\TriangleArea\TriangleArea\obj\Debug\net8.0\TriangleArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\seray\Desktop\учёба\ООП\lab1\TriangleArea\TriangleArea\obj\Debug\net8.0\TriangleArea.AssemblyInfoInputs.cache
+C:\Users\seray\Desktop\учёба\ООП\lab1\TriangleArea\TriangleArea\obj\Debug\net8.0\TriangleArea.AssemblyInfo.cs
+C:\Users\seray\Desktop\учёба\ООП\lab1\TriangleArea\TriangleArea\obj\Debug\net8.0\TriangleArea.csproj.CoreCompileInputs.cache
+C:\Users\seray\Desktop\учёба\ООП\lab1\TriangleArea\TriangleArea\obj\Debug\net8.0\TriangleArea.dll
+C:\Users\seray\Desktop\учёба\ООП\lab1\TriangleArea\TriangleArea\obj\Debug\net8.0\refint\TriangleArea.dll
+C:\Users\seray\Desktop\учёба\ООП\lab1\TriangleArea\TriangleArea\obj\Debug\net8.0\TriangleArea.pdb
+C:\Users\seray\Desktop\учёба\ООП\lab1\TriangleArea\TriangleArea\obj\Debug\net8.0\TriangleArea.genruntimeconfig.cache
+C:\Users\seray\Desktop\учёба\ООП\lab1\TriangleArea\TriangleArea\obj\Debug\net8.0\ref\TriangleArea.dll

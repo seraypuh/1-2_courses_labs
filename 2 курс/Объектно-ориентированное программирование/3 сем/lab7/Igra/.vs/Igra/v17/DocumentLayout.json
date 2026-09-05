@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\seray\\Desktop\\\u0443\u0447\u0451\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\lab7\\Igra\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0BBDA4-72C8-49EC-A922-8AF847794995}|Igra\\Igra.csproj|c:\\users\\seray\\desktop\\\u0443\u0447\u0451\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\\u043E\u043E\u043F\\lab7\\igra\\igra\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0BBDA4-72C8-49EC-A922-8AF847794995}|Igra\\Igra.csproj|solutionrelative:igra\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0BBDA4-72C8-49EC-A922-8AF847794995}|Igra\\Igra.csproj|c:\\users\\seray\\desktop\\\u0443\u0447\u0451\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\\u043E\u043E\u043F\\lab7\\igra\\igra\\progression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0BBDA4-72C8-49EC-A922-8AF847794995}|Igra\\Igra.csproj|solutionrelative:igra\\progression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0BBDA4-72C8-49EC-A922-8AF847794995}|Igra\\Igra.csproj|c:\\users\\seray\\desktop\\\u0443\u0447\u0451\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\\u043E\u043E\u043F\\lab7\\igra\\igra\\arithmeticprogression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0BBDA4-72C8-49EC-A922-8AF847794995}|Igra\\Igra.csproj|solutionrelative:igra\\arithmeticprogression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0BBDA4-72C8-49EC-A922-8AF847794995}|Igra\\Igra.csproj|c:\\users\\seray\\desktop\\\u0443\u0447\u0451\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\\u043E\u043E\u043F\\lab7\\igra\\igra\\geometricprogression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0BBDA4-72C8-49EC-A922-8AF847794995}|Igra\\Igra.csproj|solutionrelative:igra\\geometricprogression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\seray\\Desktop\\\u0443\u0447\u0451\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\lab7\\Igra\\Igra\\Program.cs",
+              "RelativeDocumentMoniker": "Igra\\Program.cs",
+              "ToolTip": "C:\\Users\\seray\\Desktop\\\u0443\u0447\u0451\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\lab7\\Igra\\Igra\\Program.cs",
+              "RelativeToolTip": "Igra\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T21:37:51.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Progression.cs",
+              "DocumentMoniker": "C:\\Users\\seray\\Desktop\\\u0443\u0447\u0451\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\lab7\\Igra\\Igra\\Progression.cs",
+              "RelativeDocumentMoniker": "Igra\\Progression.cs",
+              "ToolTip": "C:\\Users\\seray\\Desktop\\\u0443\u0447\u0451\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\lab7\\Igra\\Igra\\Progression.cs",
+              "RelativeToolTip": "Igra\\Progression.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T23:44:12.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ArithmeticProgression.cs",
+              "DocumentMoniker": "C:\\Users\\seray\\Desktop\\\u0443\u0447\u0451\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\lab7\\Igra\\Igra\\ArithmeticProgression.cs",
+              "RelativeDocumentMoniker": "Igra\\ArithmeticProgression.cs",
+              "ToolTip": "C:\\Users\\seray\\Desktop\\\u0443\u0447\u0451\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\lab7\\Igra\\Igra\\ArithmeticProgression.cs",
+              "RelativeToolTip": "Igra\\ArithmeticProgression.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T23:52:59.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GeometricProgression.cs",
+              "DocumentMoniker": "C:\\Users\\seray\\Desktop\\\u0443\u0447\u0451\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\lab7\\Igra\\Igra\\GeometricProgression.cs",
+              "RelativeDocumentMoniker": "Igra\\GeometricProgression.cs",
+              "ToolTip": "C:\\Users\\seray\\Desktop\\\u0443\u0447\u0451\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\lab7\\Igra\\Igra\\GeometricProgression.cs",
+              "RelativeToolTip": "Igra\\GeometricProgression.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T00:00:25.144Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

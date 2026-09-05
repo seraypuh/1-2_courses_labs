@@ -1,0 +1,14 @@
+C:\Users\seray\Desktop\учёба\ООП\lab1\Greetings\Greetings\bin\Debug\net8.0\Greetings.exe
+C:\Users\seray\Desktop\учёба\ООП\lab1\Greetings\Greetings\bin\Debug\net8.0\Greetings.deps.json
+C:\Users\seray\Desktop\учёба\ООП\lab1\Greetings\Greetings\bin\Debug\net8.0\Greetings.runtimeconfig.json
+C:\Users\seray\Desktop\учёба\ООП\lab1\Greetings\Greetings\bin\Debug\net8.0\Greetings.dll
+C:\Users\seray\Desktop\учёба\ООП\lab1\Greetings\Greetings\bin\Debug\net8.0\Greetings.pdb
+C:\Users\seray\Desktop\учёба\ООП\lab1\Greetings\Greetings\obj\Debug\net8.0\Greetings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\seray\Desktop\учёба\ООП\lab1\Greetings\Greetings\obj\Debug\net8.0\Greetings.AssemblyInfoInputs.cache
+C:\Users\seray\Desktop\учёба\ООП\lab1\Greetings\Greetings\obj\Debug\net8.0\Greetings.AssemblyInfo.cs
+C:\Users\seray\Desktop\учёба\ООП\lab1\Greetings\Greetings\obj\Debug\net8.0\Greetings.csproj.CoreCompileInputs.cache
+C:\Users\seray\Desktop\учёба\ООП\lab1\Greetings\Greetings\obj\Debug\net8.0\Greetings.dll
+C:\Users\seray\Desktop\учёба\ООП\lab1\Greetings\Greetings\obj\Debug\net8.0\refint\Greetings.dll
+C:\Users\seray\Desktop\учёба\ООП\lab1\Greetings\Greetings\obj\Debug\net8.0\Greetings.pdb
+C:\Users\seray\Desktop\учёба\ООП\lab1\Greetings\Greetings\obj\Debug\net8.0\Greetings.genruntimeconfig.cache
+C:\Users\seray\Desktop\учёба\ООП\lab1\Greetings\Greetings\obj\Debug\net8.0\ref\Greetings.dll

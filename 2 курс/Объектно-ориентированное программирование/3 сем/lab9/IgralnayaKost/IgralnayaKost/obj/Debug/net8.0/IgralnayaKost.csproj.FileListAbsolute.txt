@@ -1,0 +1,14 @@
+C:\Users\seray\Desktop\учёба\2 курс\ООП\lab9\IgralnayaKost\IgralnayaKost\bin\Debug\net8.0\IgralnayaKost.exe
+C:\Users\seray\Desktop\учёба\2 курс\ООП\lab9\IgralnayaKost\IgralnayaKost\bin\Debug\net8.0\IgralnayaKost.deps.json
+C:\Users\seray\Desktop\учёба\2 курс\ООП\lab9\IgralnayaKost\IgralnayaKost\bin\Debug\net8.0\IgralnayaKost.runtimeconfig.json
+C:\Users\seray\Desktop\учёба\2 курс\ООП\lab9\IgralnayaKost\IgralnayaKost\bin\Debug\net8.0\IgralnayaKost.dll
+C:\Users\seray\Desktop\учёба\2 курс\ООП\lab9\IgralnayaKost\IgralnayaKost\bin\Debug\net8.0\IgralnayaKost.pdb
+C:\Users\seray\Desktop\учёба\2 курс\ООП\lab9\IgralnayaKost\IgralnayaKost\obj\Debug\net8.0\IgralnayaKost.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\seray\Desktop\учёба\2 курс\ООП\lab9\IgralnayaKost\IgralnayaKost\obj\Debug\net8.0\IgralnayaKost.AssemblyInfoInputs.cache
+C:\Users\seray\Desktop\учёба\2 курс\ООП\lab9\IgralnayaKost\IgralnayaKost\obj\Debug\net8.0\IgralnayaKost.AssemblyInfo.cs
+C:\Users\seray\Desktop\учёба\2 курс\ООП\lab9\IgralnayaKost\IgralnayaKost\obj\Debug\net8.0\IgralnayaKost.csproj.CoreCompileInputs.cache
+C:\Users\seray\Desktop\учёба\2 курс\ООП\lab9\IgralnayaKost\IgralnayaKost\obj\Debug\net8.0\IgralnayaKost.dll
+C:\Users\seray\Desktop\учёба\2 курс\ООП\lab9\IgralnayaKost\IgralnayaKost\obj\Debug\net8.0\refint\IgralnayaKost.dll
+C:\Users\seray\Desktop\учёба\2 курс\ООП\lab9\IgralnayaKost\IgralnayaKost\obj\Debug\net8.0\IgralnayaKost.pdb
+C:\Users\seray\Desktop\учёба\2 курс\ООП\lab9\IgralnayaKost\IgralnayaKost\obj\Debug\net8.0\IgralnayaKost.genruntimeconfig.cache
+C:\Users\seray\Desktop\учёба\2 курс\ООП\lab9\IgralnayaKost\IgralnayaKost\obj\Debug\net8.0\ref\IgralnayaKost.dll

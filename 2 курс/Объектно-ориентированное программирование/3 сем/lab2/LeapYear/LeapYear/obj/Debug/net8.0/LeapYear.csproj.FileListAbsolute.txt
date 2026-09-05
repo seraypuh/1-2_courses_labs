@@ -1,0 +1,14 @@
+C:\Users\seray\Desktop\учёба\2 курс\ООП\lab2\LeapYear\LeapYear\obj\Debug\net8.0\LeapYear.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\seray\Desktop\учёба\2 курс\ООП\lab2\LeapYear\LeapYear\obj\Debug\net8.0\LeapYear.AssemblyInfoInputs.cache
+C:\Users\seray\Desktop\учёба\2 курс\ООП\lab2\LeapYear\LeapYear\obj\Debug\net8.0\LeapYear.AssemblyInfo.cs
+C:\Users\seray\Desktop\учёба\2 курс\ООП\lab2\LeapYear\LeapYear\obj\Debug\net8.0\LeapYear.csproj.CoreCompileInputs.cache
+C:\Users\seray\Desktop\учёба\2 курс\ООП\lab2\LeapYear\LeapYear\bin\Debug\net8.0\LeapYear.exe
+C:\Users\seray\Desktop\учёба\2 курс\ООП\lab2\LeapYear\LeapYear\bin\Debug\net8.0\LeapYear.deps.json
+C:\Users\seray\Desktop\учёба\2 курс\ООП\lab2\LeapYear\LeapYear\bin\Debug\net8.0\LeapYear.runtimeconfig.json
+C:\Users\seray\Desktop\учёба\2 курс\ООП\lab2\LeapYear\LeapYear\bin\Debug\net8.0\LeapYear.dll
+C:\Users\seray\Desktop\учёба\2 курс\ООП\lab2\LeapYear\LeapYear\bin\Debug\net8.0\LeapYear.pdb
+C:\Users\seray\Desktop\учёба\2 курс\ООП\lab2\LeapYear\LeapYear\obj\Debug\net8.0\LeapYear.dll
+C:\Users\seray\Desktop\учёба\2 курс\ООП\lab2\LeapYear\LeapYear\obj\Debug\net8.0\refint\LeapYear.dll
+C:\Users\seray\Desktop\учёба\2 курс\ООП\lab2\LeapYear\LeapYear\obj\Debug\net8.0\LeapYear.pdb
+C:\Users\seray\Desktop\учёба\2 курс\ООП\lab2\LeapYear\LeapYear\obj\Debug\net8.0\LeapYear.genruntimeconfig.cache
+C:\Users\seray\Desktop\учёба\2 курс\ООП\lab2\LeapYear\LeapYear\obj\Debug\net8.0\ref\LeapYear.dll

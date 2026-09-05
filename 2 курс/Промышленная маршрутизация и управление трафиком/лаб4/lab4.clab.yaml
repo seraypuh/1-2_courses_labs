@@ -1,0 +1,63 @@
+name: lab4
+
+mgmt:
+  network: mgmt
+  ipv4-subnet: 172.20.20.0/24
+
+topology:
+  defaults:
+    kind: vr-ros
+    image: vrnetlab/mikrotik_routeros:6.47.9
+  nodes:
+    R01.HKI:
+      kind: vr-ros
+      mgmt-ipv4: 172.20.20.10
+    R01.SPB:
+      kind: vr-ros
+      mgmt-ipv4: 172.20.20.11
+    R01.LND:
+      kind: vr-ros
+      mgmt-ipv4: 172.20.20.12
+    R01.NY:
+      kind: vr-ros
+      mgmt-ipv4: 172.20.20.13
+    R01.LBN:
+      kind: vr-ros
+      mgmt-ipv4: 172.20.20.14
+    R01.SVL:
+      kind: vr-ros
+      mgmt-ipv4: 172.20.20.15
+    PC1:
+      kind: linux
+      image: alpine:latest
+      cmd: sleep infinity
+      network-mode: none
+      exec:
+        - ip addr add 192.168.10.253/24 dev eth1
+        - ip route add default via 192.168.10.1
+    PC2:
+      kind: linux
+      image: alpine:latest
+      cmd: sleep infinity
+      network-mode: none
+      exec:
+        - ip addr add 192.168.20.253/24 dev eth1
+        - ip route add default via 192.168.20.1    
+    PC3:
+      kind: linux
+      image: alpine:latest
+      cmd: sleep infinity
+      network-mode: none
+      exec:
+        - ip addr add 192.168.30.253/24 dev eth1
+        - ip route add default via 192.168.30.1
+  links:
+    - endpoints: ["R01.HKI:eth1", "R01.LND:eth1"]
+    - endpoints: ["R01.HKI:eth2", "R01.LBN:eth1"]
+    - endpoints: ["R01.LND:eth2", "R01.LBN:eth2"]
+    - endpoints: ["R01.HKI:eth3", "R01.SPB:eth1"]
+    - endpoints: ["R01.LND:eth3", "R01.NY:eth1"]
+    - endpoints: ["R01.LBN:eth3", "R01.SVL:eth1"]
+    - endpoints: ["R01.SPB:eth2", "PC1:eth1"]
+    - endpoints: ["R01.NY:eth2", "PC2:eth1"]
+    - endpoints: ["R01.SVL:eth2", "PC3:eth1"]

@@ -1,0 +1,14 @@
+C:\Users\seray\Desktop\учёба\2 курс\ООП\lab2\StructType\StructType\bin\Debug\net8.0\StructType.exe
+C:\Users\seray\Desktop\учёба\2 курс\ООП\lab2\StructType\StructType\bin\Debug\net8.0\StructType.deps.json
+C:\Users\seray\Desktop\учёба\2 курс\ООП\lab2\StructType\StructType\bin\Debug\net8.0\StructType.runtimeconfig.json
+C:\Users\seray\Desktop\учёба\2 курс\ООП\lab2\StructType\StructType\bin\Debug\net8.0\StructType.dll
+C:\Users\seray\Desktop\учёба\2 курс\ООП\lab2\StructType\StructType\bin\Debug\net8.0\StructType.pdb
+C:\Users\seray\Desktop\учёба\2 курс\ООП\lab2\StructType\StructType\obj\Debug\net8.0\StructType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\seray\Desktop\учёба\2 курс\ООП\lab2\StructType\StructType\obj\Debug\net8.0\StructType.AssemblyInfoInputs.cache
+C:\Users\seray\Desktop\учёба\2 курс\ООП\lab2\StructType\StructType\obj\Debug\net8.0\StructType.AssemblyInfo.cs
+C:\Users\seray\Desktop\учёба\2 курс\ООП\lab2\StructType\StructType\obj\Debug\net8.0\StructType.csproj.CoreCompileInputs.cache
+C:\Users\seray\Desktop\учёба\2 курс\ООП\lab2\StructType\StructType\obj\Debug\net8.0\StructType.dll
+C:\Users\seray\Desktop\учёба\2 курс\ООП\lab2\StructType\StructType\obj\Debug\net8.0\refint\StructType.dll
+C:\Users\seray\Desktop\учёба\2 курс\ООП\lab2\StructType\StructType\obj\Debug\net8.0\StructType.pdb
+C:\Users\seray\Desktop\учёба\2 курс\ООП\lab2\StructType\StructType\obj\Debug\net8.0\StructType.genruntimeconfig.cache
+C:\Users\seray\Desktop\учёба\2 курс\ООП\lab2\StructType\StructType\obj\Debug\net8.0\ref\StructType.dll

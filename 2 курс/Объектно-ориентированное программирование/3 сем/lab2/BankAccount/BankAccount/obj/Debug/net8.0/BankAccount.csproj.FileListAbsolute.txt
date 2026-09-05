@@ -1,0 +1,14 @@
+C:\Users\seray\Desktop\учёба\2 курс\ООП\lab2\BankAccount\BankAccount\bin\Debug\net8.0\BankAccount.exe
+C:\Users\seray\Desktop\учёба\2 курс\ООП\lab2\BankAccount\BankAccount\bin\Debug\net8.0\BankAccount.deps.json
+C:\Users\seray\Desktop\учёба\2 курс\ООП\lab2\BankAccount\BankAccount\bin\Debug\net8.0\BankAccount.runtimeconfig.json
+C:\Users\seray\Desktop\учёба\2 курс\ООП\lab2\BankAccount\BankAccount\bin\Debug\net8.0\BankAccount.dll
+C:\Users\seray\Desktop\учёба\2 курс\ООП\lab2\BankAccount\BankAccount\bin\Debug\net8.0\BankAccount.pdb
+C:\Users\seray\Desktop\учёба\2 курс\ООП\lab2\BankAccount\BankAccount\obj\Debug\net8.0\BankAccount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\seray\Desktop\учёба\2 курс\ООП\lab2\BankAccount\BankAccount\obj\Debug\net8.0\BankAccount.AssemblyInfoInputs.cache
+C:\Users\seray\Desktop\учёба\2 курс\ООП\lab2\BankAccount\BankAccount\obj\Debug\net8.0\BankAccount.AssemblyInfo.cs
+C:\Users\seray\Desktop\учёба\2 курс\ООП\lab2\BankAccount\BankAccount\obj\Debug\net8.0\BankAccount.csproj.CoreCompileInputs.cache
+C:\Users\seray\Desktop\учёба\2 курс\ООП\lab2\BankAccount\BankAccount\obj\Debug\net8.0\BankAccount.dll
+C:\Users\seray\Desktop\учёба\2 курс\ООП\lab2\BankAccount\BankAccount\obj\Debug\net8.0\refint\BankAccount.dll
+C:\Users\seray\Desktop\учёба\2 курс\ООП\lab2\BankAccount\BankAccount\obj\Debug\net8.0\BankAccount.pdb
+C:\Users\seray\Desktop\учёба\2 курс\ООП\lab2\BankAccount\BankAccount\obj\Debug\net8.0\BankAccount.genruntimeconfig.cache
+C:\Users\seray\Desktop\учёба\2 курс\ООП\lab2\BankAccount\BankAccount\obj\Debug\net8.0\ref\BankAccount.dll

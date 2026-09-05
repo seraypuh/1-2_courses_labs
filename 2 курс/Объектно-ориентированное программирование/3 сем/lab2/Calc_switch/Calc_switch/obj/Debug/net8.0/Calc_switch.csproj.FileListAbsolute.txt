@@ -1,0 +1,14 @@
+C:\Users\seray\Desktop\учёба\2 курс\ООП\lab2\Calc_switch\Calc_switch\bin\Debug\net8.0\Calc_switch.exe
+C:\Users\seray\Desktop\учёба\2 курс\ООП\lab2\Calc_switch\Calc_switch\bin\Debug\net8.0\Calc_switch.deps.json
+C:\Users\seray\Desktop\учёба\2 курс\ООП\lab2\Calc_switch\Calc_switch\bin\Debug\net8.0\Calc_switch.runtimeconfig.json
+C:\Users\seray\Desktop\учёба\2 курс\ООП\lab2\Calc_switch\Calc_switch\bin\Debug\net8.0\Calc_switch.dll
+C:\Users\seray\Desktop\учёба\2 курс\ООП\lab2\Calc_switch\Calc_switch\bin\Debug\net8.0\Calc_switch.pdb
+C:\Users\seray\Desktop\учёба\2 курс\ООП\lab2\Calc_switch\Calc_switch\obj\Debug\net8.0\Calc_switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\seray\Desktop\учёба\2 курс\ООП\lab2\Calc_switch\Calc_switch\obj\Debug\net8.0\Calc_switch.AssemblyInfoInputs.cache
+C:\Users\seray\Desktop\учёба\2 курс\ООП\lab2\Calc_switch\Calc_switch\obj\Debug\net8.0\Calc_switch.AssemblyInfo.cs
+C:\Users\seray\Desktop\учёба\2 курс\ООП\lab2\Calc_switch\Calc_switch\obj\Debug\net8.0\Calc_switch.csproj.CoreCompileInputs.cache
+C:\Users\seray\Desktop\учёба\2 курс\ООП\lab2\Calc_switch\Calc_switch\obj\Debug\net8.0\Calc_switch.dll
+C:\Users\seray\Desktop\учёба\2 курс\ООП\lab2\Calc_switch\Calc_switch\obj\Debug\net8.0\refint\Calc_switch.dll
+C:\Users\seray\Desktop\учёба\2 курс\ООП\lab2\Calc_switch\Calc_switch\obj\Debug\net8.0\Calc_switch.pdb
+C:\Users\seray\Desktop\учёба\2 курс\ООП\lab2\Calc_switch\Calc_switch\obj\Debug\net8.0\Calc_switch.genruntimeconfig.cache
+C:\Users\seray\Desktop\учёба\2 курс\ООП\lab2\Calc_switch\Calc_switch\obj\Debug\net8.0\ref\Calc_switch.dll

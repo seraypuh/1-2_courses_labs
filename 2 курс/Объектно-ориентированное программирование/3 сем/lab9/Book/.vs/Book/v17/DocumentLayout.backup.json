@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\seray\\Desktop\\\u0443\u0447\u0451\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\lab9\\Book\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4DAA0538-1269-4414-ABDD-55133037EF92}|Book\\Book.csproj|c:\\users\\seray\\desktop\\\u0443\u0447\u0451\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\\u043E\u043E\u043F\\lab9\\book\\book\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DAA0538-1269-4414-ABDD-55133037EF92}|Book\\Book.csproj|solutionrelative:book\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DAA0538-1269-4414-ABDD-55133037EF92}|Book\\Book.csproj|c:\\users\\seray\\desktop\\\u0443\u0447\u0451\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\\u043E\u043E\u043F\\lab9\\book\\book\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DAA0538-1269-4414-ABDD-55133037EF92}|Book\\Book.csproj|solutionrelative:book\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DAA0538-1269-4414-ABDD-55133037EF92}|Book\\Book.csproj|c:\\users\\seray\\desktop\\\u0443\u0447\u0451\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\\u043E\u043E\u043F\\lab9\\book\\book\\operation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DAA0538-1269-4414-ABDD-55133037EF92}|Book\\Book.csproj|solutionrelative:book\\operation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DAA0538-1269-4414-ABDD-55133037EF92}|Book\\Book.csproj|c:\\users\\seray\\desktop\\\u0443\u0447\u0451\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\\u043E\u043E\u043F\\lab9\\book\\book\\magazine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DAA0538-1269-4414-ABDD-55133037EF92}|Book\\Book.csproj|solutionrelative:book\\magazine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DAA0538-1269-4414-ABDD-55133037EF92}|Book\\Book.csproj|c:\\users\\seray\\desktop\\\u0443\u0447\u0451\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\\u043E\u043E\u043F\\lab9\\book\\book\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DAA0538-1269-4414-ABDD-55133037EF92}|Book\\Book.csproj|solutionrelative:book\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\seray\\Desktop\\\u0443\u0447\u0451\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\lab9\\Book\\Book\\Program.cs",
+              "RelativeDocumentMoniker": "Book\\Program.cs",
+              "ToolTip": "C:\\Users\\seray\\Desktop\\\u0443\u0447\u0451\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\lab9\\Book\\Book\\Program.cs",
+              "RelativeToolTip": "Book\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T17:34:43.839Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Operation.cs",
+              "DocumentMoniker": "C:\\Users\\seray\\Desktop\\\u0443\u0447\u0451\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\lab9\\Book\\Book\\Operation.cs",
+              "RelativeDocumentMoniker": "Book\\Operation.cs",
+              "ToolTip": "C:\\Users\\seray\\Desktop\\\u0443\u0447\u0451\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\lab9\\Book\\Book\\Operation.cs",
+              "RelativeToolTip": "Book\\Operation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T05:39:27.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Magazine.cs",
+              "DocumentMoniker": "C:\\Users\\seray\\Desktop\\\u0443\u0447\u0451\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\lab9\\Book\\Book\\Magazine.cs",
+              "RelativeDocumentMoniker": "Book\\Magazine.cs",
+              "ToolTip": "C:\\Users\\seray\\Desktop\\\u0443\u0447\u0451\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\lab9\\Book\\Book\\Magazine.cs",
+              "RelativeToolTip": "Book\\Magazine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T19:23:52.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\seray\\Desktop\\\u0443\u0447\u0451\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\lab9\\Book\\Book\\Item.cs",
+              "RelativeDocumentMoniker": "Book\\Item.cs",
+              "ToolTip": "C:\\Users\\seray\\Desktop\\\u0443\u0447\u0451\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\lab9\\Book\\Book\\Item.cs",
+              "RelativeToolTip": "Book\\Item.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwCcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T17:15:14.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\seray\\Desktop\\\u0443\u0447\u0451\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\lab9\\Book\\Book\\Book.cs",
+              "RelativeDocumentMoniker": "Book\\Book.cs",
+              "ToolTip": "C:\\Users\\seray\\Desktop\\\u0443\u0447\u0451\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\lab9\\Book\\Book\\Book.cs",
+              "RelativeToolTip": "Book\\Book.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAApwBUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T18:01:58.331Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

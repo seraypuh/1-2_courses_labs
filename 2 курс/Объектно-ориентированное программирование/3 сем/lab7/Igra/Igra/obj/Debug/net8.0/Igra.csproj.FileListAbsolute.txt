@@ -1,0 +1,14 @@
+C:\Users\seray\Desktop\учёба\2 курс\ООП\lab7\Igra\Igra\bin\Debug\net8.0\Igra.exe
+C:\Users\seray\Desktop\учёба\2 курс\ООП\lab7\Igra\Igra\bin\Debug\net8.0\Igra.deps.json
+C:\Users\seray\Desktop\учёба\2 курс\ООП\lab7\Igra\Igra\bin\Debug\net8.0\Igra.runtimeconfig.json
+C:\Users\seray\Desktop\учёба\2 курс\ООП\lab7\Igra\Igra\bin\Debug\net8.0\Igra.dll
+C:\Users\seray\Desktop\учёба\2 курс\ООП\lab7\Igra\Igra\bin\Debug\net8.0\Igra.pdb
+C:\Users\seray\Desktop\учёба\2 курс\ООП\lab7\Igra\Igra\obj\Debug\net8.0\Igra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\seray\Desktop\учёба\2 курс\ООП\lab7\Igra\Igra\obj\Debug\net8.0\Igra.AssemblyInfoInputs.cache
+C:\Users\seray\Desktop\учёба\2 курс\ООП\lab7\Igra\Igra\obj\Debug\net8.0\Igra.AssemblyInfo.cs
+C:\Users\seray\Desktop\учёба\2 курс\ООП\lab7\Igra\Igra\obj\Debug\net8.0\Igra.csproj.CoreCompileInputs.cache
+C:\Users\seray\Desktop\учёба\2 курс\ООП\lab7\Igra\Igra\obj\Debug\net8.0\Igra.dll
+C:\Users\seray\Desktop\учёба\2 курс\ООП\lab7\Igra\Igra\obj\Debug\net8.0\refint\Igra.dll
+C:\Users\seray\Desktop\учёба\2 курс\ООП\lab7\Igra\Igra\obj\Debug\net8.0\Igra.pdb
+C:\Users\seray\Desktop\учёба\2 курс\ООП\lab7\Igra\Igra\obj\Debug\net8.0\Igra.genruntimeconfig.cache
+C:\Users\seray\Desktop\учёба\2 курс\ООП\lab7\Igra\Igra\obj\Debug\net8.0\ref\Igra.dll

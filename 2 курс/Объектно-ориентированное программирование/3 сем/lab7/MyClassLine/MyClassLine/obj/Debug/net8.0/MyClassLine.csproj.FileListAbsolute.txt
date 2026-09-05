@@ -1,0 +1,14 @@
+C:\Users\seray\Desktop\учёба\2 курс\ООП\lab7\MyClassLine\MyClassLine\obj\Debug\net8.0\MyClassLine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\seray\Desktop\учёба\2 курс\ООП\lab7\MyClassLine\MyClassLine\obj\Debug\net8.0\MyClassLine.AssemblyInfoInputs.cache
+C:\Users\seray\Desktop\учёба\2 курс\ООП\lab7\MyClassLine\MyClassLine\obj\Debug\net8.0\MyClassLine.AssemblyInfo.cs
+C:\Users\seray\Desktop\учёба\2 курс\ООП\lab7\MyClassLine\MyClassLine\obj\Debug\net8.0\MyClassLine.csproj.CoreCompileInputs.cache
+C:\Users\seray\Desktop\учёба\2 курс\ООП\lab7\MyClassLine\MyClassLine\bin\Debug\net8.0\MyClassLine.exe
+C:\Users\seray\Desktop\учёба\2 курс\ООП\lab7\MyClassLine\MyClassLine\bin\Debug\net8.0\MyClassLine.deps.json
+C:\Users\seray\Desktop\учёба\2 курс\ООП\lab7\MyClassLine\MyClassLine\bin\Debug\net8.0\MyClassLine.runtimeconfig.json
+C:\Users\seray\Desktop\учёба\2 курс\ООП\lab7\MyClassLine\MyClassLine\bin\Debug\net8.0\MyClassLine.dll
+C:\Users\seray\Desktop\учёба\2 курс\ООП\lab7\MyClassLine\MyClassLine\bin\Debug\net8.0\MyClassLine.pdb
+C:\Users\seray\Desktop\учёба\2 курс\ООП\lab7\MyClassLine\MyClassLine\obj\Debug\net8.0\MyClassLine.dll
+C:\Users\seray\Desktop\учёба\2 курс\ООП\lab7\MyClassLine\MyClassLine\obj\Debug\net8.0\refint\MyClassLine.dll
+C:\Users\seray\Desktop\учёба\2 курс\ООП\lab7\MyClassLine\MyClassLine\obj\Debug\net8.0\MyClassLine.pdb
+C:\Users\seray\Desktop\учёба\2 курс\ООП\lab7\MyClassLine\MyClassLine\obj\Debug\net8.0\MyClassLine.genruntimeconfig.cache
+C:\Users\seray\Desktop\учёба\2 курс\ООП\lab7\MyClassLine\MyClassLine\obj\Debug\net8.0\ref\MyClassLine.dll

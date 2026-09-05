@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\seray\\Desktop\\lab4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{833447D8-427A-4D3E-837C-2B74BF233EF3}|lab4\\lab4.csproj|c:\\users\\seray\\desktop\\lab4\\lab4\\graph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{833447D8-427A-4D3E-837C-2B74BF233EF3}|lab4\\lab4.csproj|solutionrelative:lab4\\graph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{833447D8-427A-4D3E-837C-2B74BF233EF3}|lab4\\lab4.csproj|c:\\users\\seray\\desktop\\lab4\\lab4\\edge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{833447D8-427A-4D3E-837C-2B74BF233EF3}|lab4\\lab4.csproj|solutionrelative:lab4\\edge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{833447D8-427A-4D3E-837C-2B74BF233EF3}|lab4\\lab4.csproj|c:\\users\\seray\\desktop\\lab4\\lab4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{833447D8-427A-4D3E-837C-2B74BF233EF3}|lab4\\lab4.csproj|solutionrelative:lab4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Graph.cs",
+              "DocumentMoniker": "C:\\Users\\seray\\Desktop\\lab4\\lab4\\Graph.cs",
+              "RelativeDocumentMoniker": "lab4\\Graph.cs",
+              "ToolTip": "C:\\Users\\seray\\Desktop\\lab4\\lab4\\Graph.cs",
+              "RelativeToolTip": "lab4\\Graph.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAgwFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T17:02:58.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edge.cs",
+              "DocumentMoniker": "C:\\Users\\seray\\Desktop\\lab4\\lab4\\Edge.cs",
+              "RelativeDocumentMoniker": "lab4\\Edge.cs",
+              "ToolTip": "C:\\Users\\seray\\Desktop\\lab4\\lab4\\Edge.cs",
+              "RelativeToolTip": "lab4\\Edge.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T17:02:28.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\seray\\Desktop\\lab4\\lab4\\Program.cs",
+              "RelativeDocumentMoniker": "lab4\\Program.cs",
+              "ToolTip": "C:\\Users\\seray\\Desktop\\lab4\\lab4\\Program.cs",
+              "RelativeToolTip": "lab4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T13:06:22.294Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

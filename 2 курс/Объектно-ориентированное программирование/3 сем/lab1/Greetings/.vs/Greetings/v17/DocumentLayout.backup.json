@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\seray\\Desktop\\\u0443\u0447\u0451\u0431\u0430\\\u041E\u041E\u041F\\lab1\\Greetings\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F2844A8-F97A-48D0-866D-1A5B1BE7E1BE}|Greetings\\Greetings.csproj|c:\\users\\seray\\desktop\\\u0443\u0447\u0451\u0431\u0430\\\u043E\u043E\u043F\\lab1\\greetings\\greetings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F2844A8-F97A-48D0-866D-1A5B1BE7E1BE}|Greetings\\Greetings.csproj|solutionrelative:greetings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\seray\\Desktop\\\u0443\u0447\u0451\u0431\u0430\\\u041E\u041E\u041F\\lab1\\Greetings\\Greetings\\Program.cs",
+              "RelativeDocumentMoniker": "Greetings\\Program.cs",
+              "ToolTip": "C:\\Users\\seray\\Desktop\\\u0443\u0447\u0451\u0431\u0430\\\u041E\u041E\u041F\\lab1\\Greetings\\Greetings\\Program.cs",
+              "RelativeToolTip": "Greetings\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T16:19:59.348Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
